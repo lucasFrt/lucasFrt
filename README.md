@@ -38,4 +38,5 @@
 
 <br/>
 
-### Estou comprometido diariamente com o objetivo de ingressar no mercado de trabalho na área de TI.
+### Sobre mim: 
+Estou comprometido diariamente com o objetivo de ingressar no mercado de trabalho na área de TI.
