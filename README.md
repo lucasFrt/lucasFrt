@@ -7,10 +7,6 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasmigfrota03gmail.com)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasFrt&layout=compact)
-
-<br/>
-
 <br/>
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasFrt&show_icon=true&theme=dark)
@@ -18,6 +14,11 @@
 
 
 <br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasFrt&layout=compact)
+
+<br/>
+
+
 
 ### Tecnologias:
 
