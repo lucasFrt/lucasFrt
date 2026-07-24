@@ -1,46 +1,29 @@
-# Olá, sou o Lucas Frota 👋
+# Lucas Frota
 
-**Engenheiro de Software Backend | Arquitetura de APIs & Integração de Sistemas**  
-📍 Niterói, RJ • [LinkedIn](https://linkedin.com/in/lucas-miguel-frota) • [Email](mailto:lucasmigfrota03@gmail.com)
+**Software Engineer @ Opus Comércio Exterior**
 
-Atuo com foco no desenvolvimento de APIs RESTful de alta disponibilidade, automação de processos operacionais e modelagem de bancos de dados no ecossistema **Node.js, TypeScript e React**. Tenho experiência corporativa na arquitetura de plataformas do zero, automação de dados fiscais/financeiros e gestão de infraestrutura de servidores.
-
----
-
-### 🛠️ Tech Stack & Competências
-
-* **Back-end & Arquitetura:** Node.js, TypeScript, JavaScript, APIs RESTful, Padrão Controller-Service-Repository, Filas/Workers (BullMQ), JWT, Helmet.
-* **Bancos de Dados & ORM:** SQL Server, Prisma ORM, MySQL, MariaDB, Redis, PocketBase.
-* **Front-end:** React 19, Tailwind CSS 4.0, TanStack Query v5, Vite.
-* **Infraestrutura & DevOps:** Windows Server, IIS (Reverse Proxy), NSSM, PM2, Cloudflare Workers, Git.
-* **Automação & Integrações:** Parsing de XML/PDF, Consumo de APIs públicas/governamentais, Web Scraping.
+Engenheiro de Software com foco na arquitetura e desenvolvimento de APIs RESTful de alta disponibilidade, automação de processos operacionais e modelagem de bancos de dados no ecossistema **Node.js, TypeScript e React**.
 
 ---
 
-### 📌 PoCs & Arquiteturas de Demonstração (Showcase)
+### 🛠️ Tech Stack & Ferramentas
 
-*Como o código do meu dia a dia profissional reside em repositórios privados corporativos, criei as PoCs abaixo para demonstrar os padrões de arquitetura e soluções técnicas que utilizo:*
-
-#### ⚡ 1. [enterprise-node-boilerplate](https://github.com/lucasFrt/enterprise-node-boilerplate)
-> **Arquitetura Base para APIs RESTful de Alta Disponibilidade**  
-> Modelo demonstrativo de arquitetura corporativa em camadas (*Controller-Service-Repository*), pronta para produção.
-* **Techs:** Node.js, TypeScript, Prisma ORM, SQL Server, Redis, JWT, Zod/Joi.
-* **Destaques:** Tratamento global de exceções, autenticação JWT, validação rigorosa de schemas e rotas documentadas via Swagger.
-
-#### 📄 2. [nfe-xml-parser-stream](https://github.com/lucasFrt/nfe-xml-parser-stream)
-> **Engine de Parsing & Automação de Documentos Fiscais**  
-> Demonstração de leitura, parsing e conversão de arquivos XML complexos (NF-e) utilizando processamento em memória.
-* **Techs:** Node.js, TypeScript, Stream Processors.
-* **Destaques:** Conversão eficiente sem dependências pagas de terceiros, validação de campos obrigatórios e preparação de payload estruturado para persistência em banco.
-
-#### 📈 3. [bcb-rate-fetcher-service](https://github.com/lucasFrt/bcb-rate-fetcher-service)
-> **Worker de Extração e Polling de Dados Cambiais em Tempo Real**  
-> Serviço em segundo plano para consumo resiliente de dados financeiros (API do Banco Central do Brasil).
-* **Techs:** Node.js, TypeScript, Axios, Redis.
-* **Destaques:** Resiliência a oscilações de rede, estratégia de cache com Redis para evitar *rate limit* e disponibilidade de endpoints leves para consumo de dashboards.
+* **Back-end:** Node.js, TypeScript, JavaScript (ES6+), Express, APIs RESTful
+* **Arquitetura & Padrões:** Controller-Service-Repository, Filas/Workers (BullMQ), Multi-tenant, JWT, Helmet
+* **Bancos de Dados & Cache:** SQL Server, Prisma ORM, MySQL, MariaDB, Redis, PocketBase
+* **Infraestrutura & DevOps:** Windows Server 2022, IIS (Reverse Proxy), NSSM, PM2, Cloudflare Workers, Git
+* **Automação & Integrações:** Parsing XML/PDF, Web Scraping, Consumo de APIs Fiscais/Governamentais
 
 ---
 
-📬 **Contato Profissional:**
-- LinkedIn: [linkedin.com/in/lucas-miguel-frota](https://linkedin.com/in/lucas-miguel-frota)
-- E-mail: lucasmigfrota03@gmail.com
+### 📌 PoCs & Arquitetura (Showcase)
+
+*Como o código do meu dia a dia profissional reside em repositórios privados corporativos, mantendo a confidencialidade das regras de negócio, utilizo os projetos abaixo como Provas de Conceito (PoCs) dos meus padrões técnicos:*
+
+* ⚡ **[enterprise-node-boilerplate](https://github.com/lucasFrt/enterprise-node-boilerplate):** PoC de arquitetura corporativa em camadas (Controller-Service-Repository) com Node.js, TypeScript, Prisma ORM, SQL Server e Swagger.
+* 📄 **[nfe-xml-parser-stream](https://github.com/lucasFrt/nfe-xml-parser-stream):** Engine para leitura, validação e extração de dados de arquivos XML complexos (NF-e 300+ linhas) utilizando Node.js Streams.
+* 📈 **[bcb-rate-fetcher-service](https://github.com/lucasFrt/bcb-rate-fetcher-service):** Serviço em segundo plano para extração contínua e cache de cotações de moedas da API do Banco Central.
+
+---
+
+📫 **Contato:** [LinkedIn](https://linkedin.com/in/lucas-miguel-frota) • [Email](mailto:lucasmigfrota03@gmail.com)
